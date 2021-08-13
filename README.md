@@ -1,0 +1,2 @@
+# imgrec
+Image recognition demo
